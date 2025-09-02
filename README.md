@@ -48,7 +48,7 @@ Just download it from the repository
 
 4.Compile and run **Main.java** 
 
-And That's it!!!.
+And ALL SET!!!.
 
 ENJOY THE MINI GAME
 
